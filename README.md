@@ -34,8 +34,8 @@ We then inject noises into the logs by adding and removing events.
 
 There are 10 rounds for each noise level.
 
-For example Round1 contains the first round for adding 10%, 20%, 30% activities
-Round1R contains the first round for removing 10%, 20%, 30% activities
+For example Round1 contains the first round for adding 10%, 20%, 30% events
+Round1R contains the first round for removing 10%, 20%, 30% events
 
 Round 0 contains the 68 noise-free event logs
 
