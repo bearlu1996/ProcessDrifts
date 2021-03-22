@@ -26,5 +26,5 @@ Note: Only events with “complete” lifecycle transition will be processed by 
 
 The evaluation results can be found in the "Evaluation_results.zip" file. 
 
-For the evaluation results file names of our algorithm. The number after "w" refers to the window size, and the number after "o" refers to the number of consecutive tests. For example, the results in the folder "add-w1500-o2" refers to the evaluation on the artificial logs with added events as noises. The windowSize is set to 1500, and numOfConsecutiveTests = windowSize / 2.
+For the file names of evaluation results of our algorithm. The number after "w" refers to the window size, and the number after "o" refers to the number of consecutive tests. For example, the results in the folder "add-w1500-o2" refers to the evaluation on the artificial logs with added events as noises. The windowSize is set to 1500, and numOfConsecutiveTests = windowSize / 2.
 
