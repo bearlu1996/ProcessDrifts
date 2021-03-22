@@ -8,7 +8,7 @@ Our program uses some of the libraries in the "ProDrift2.5" package (https://apr
 
 For your convinience, the source code of our implementation is in the "Implementation" folder. You need to make external reference to the "ProDrift2.5" package to compile the code (You can also find the package in the "lib" folder in our full package "ProcessDrift.zip". See details below).
 
-You can download the full package "ProcessDrift.zip" (including all excutable files and evaluation data) of our implementation at:
+You can download the full package "ProcessDrift.zip" (including all executable files and evaluation data) of our implementation at:
 
 https://unisydneyedu-my.sharepoint.com/:u:/g/personal/yalu8986_uni_sydney_edu_au/EetOwKwo7GhNnhSyp-W23IcBhATylP5ibx68ZRVQNQzg-w?e=1XzlAw
 
