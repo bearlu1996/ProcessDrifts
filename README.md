@@ -16,13 +16,32 @@ With the full package, you can replicate our evaluation results in a simple and 
 
 **Make sure you have read the "User guide.pdf" file before you run the program!**
 
+Note: Only events with “complete” lifecycle transition will be processed by the program. If your log does not contain such information, please add the “lifecycle: transition” to the events first.
+
+___________________________________________________________________________________________________________________________________________________________
+
 The synthetic data can also be downloaded separately at:
 
 https://unisydneyedu-my.sharepoint.com/:u:/g/personal/yalu8986_uni_sydney_edu_au/EQvEpM0MJl5GpBsOYgpG7CYBhEw_8OEpzxU24lvg_wRs1w?e=4Ss6jn
 
+The original 68 artificial event logs are from:
 
-Note: Only events with “complete” lifecycle transition will be processed by the program. If your log does not contain such information, please add the “lifecycle: transition” to the events first.
+Maaradji, A., Dumas, M., Rosa, M., Ostovar, A.: Fast and accurate business process
+drift detection. In: Motahari-Nezhad, H.R., Recker, J.,Weidlich, M. (eds.) BPM
+2015. LNCS, vol. 9253, pp. 406{422. Springer, Heidelberg (2015)
 
+We then inject noises into the logs by adding and removing events.
+
+There are 10 rounds for each noise level.
+
+For example Round1 contains the first round for adding 10%, 20%, 30% activities
+Round1R contains the first round for removing 10%, 20%, 30% activities
+
+Round 0 contains the 68 noise-free event logs
+
+*In order to stream the events in the order described in the paper, we shift the timestamps for the events.
+
+____________________________________________________________________________________________________________________________________________________________
 
 The evaluation results can be found in the "Evaluation_results.zip" file. 
 
