@@ -24,7 +24,7 @@ The synthetic data can also be downloaded separately at:
 
 https://unisydneyedu-my.sharepoint.com/:u:/g/personal/yalu8986_uni_sydney_edu_au/EQvEpM0MJl5GpBsOYgpG7CYBhEw_8OEpzxU24lvg_wRs1w?e=4Ss6jn
 
-The original 68 artificial event logs are from:
+The original artificial event logs are from:
 
 Maaradji, A., Dumas, M., Rosa, M., Ostovar, A.: Fast and accurate business process
 drift detection. In: Motahari-Nezhad, H.R., Recker, J.,Weidlich, M. (eds.) BPM
