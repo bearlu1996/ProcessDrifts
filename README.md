@@ -28,7 +28,7 @@ The original artificial event logs are from:
 
 Maaradji, A., Dumas, M., Rosa, M., Ostovar, A.: Fast and accurate business process
 drift detection. In: Motahari-Nezhad, H.R., Recker, J.,Weidlich, M. (eds.) BPM
-2015. LNCS, vol. 9253, pp. 406{422. Springer, Heidelberg (2015)
+2015. LNCS, vol. 9253, pp. 406 - 422. Springer, Heidelberg (2015)
 
 We then inject noises into the logs by adding and removing events.
 
